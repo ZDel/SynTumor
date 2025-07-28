@@ -1,0 +1,16 @@
+# Ignore medical image headers
+*.mhd
+
+# Ignore compressed files
+*.zip
+*.tar
+
+# Ignore data files
+*.csv
+
+# Ignore image files
+*.png
+*.jpg
+*.gif
+*.nii.gz
+*.raw
